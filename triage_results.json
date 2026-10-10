@@ -1,0 +1,56 @@
+[
+  {
+    "ticket_id": "T1",
+    "predicted_category": "login_access",
+    "predicted_urgency": "high",
+    "confidence": 0.94,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for contacting support. We understand you are having trouble logging in after resetting your password. Please ensure that your browser cache is cleared or try using an incognito window while we look into your account access.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T2",
+    "predicted_category": "billing",
+    "predicted_urgency": "high",
+    "confidence": 0.93,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for reaching out regarding your withdrawal. We acknowledge your concern about the delayed bank deposit. Our payments team is reviewing the transaction status and will provide an update shortly.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T3",
+    "predicted_category": "technical_issue",
+    "predicted_urgency": "medium",
+    "confidence": 0.89,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for reporting this issue with the mobile site. We apologize for the inconvenience caused by the freezing charts. Our technical team has been notified and is investigating the mobile interface stability.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T4",
+    "predicted_category": "verification",
+    "predicted_urgency": "medium",
+    "confidence": 0.91,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for contacting us regarding account verification. To update your address, we typically require a recent utility bill or bank statement showing your new address. Please visit the verification section of your profile to review the required documents and submit them securely.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T5",
+    "predicted_category": "account_closure",
+    "predicted_urgency": "medium",
+    "confidence": 0.95,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for reaching out to us. We have received your request to permanently close your account. Please ensure all open positions and remaining balances are settled before we proceed with the closure process.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T6",
+    "predicted_category": "feature_request",
+    "predicted_urgency": "low",
+    "confidence": 0.92,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for your valuable feedback regarding dashboard dark mode. We are always looking for ways to improve our user experience. Your suggestion has been shared with our product development team for future consideration.",
+    "internal_note": null
+  }
+]

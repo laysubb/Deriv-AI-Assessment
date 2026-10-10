@@ -1,0 +1,7 @@
+{
+  "category": "billing",
+  "urgency": "high",
+  "confidence": 0.93,
+  "reasoning_summary": "Inquiry regarding missing withdrawal funds in bank account.",
+  "needs_human_review": false
+}

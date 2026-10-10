@@ -1,0 +1,7 @@
+{
+  "category": "verification",
+  "urgency": "medium",
+  "confidence": 0.91,
+  "reasoning_summary": "Customer asking for required documentation due to recent address change.",
+  "needs_human_review": false
+}

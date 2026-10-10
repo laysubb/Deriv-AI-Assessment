@@ -1,0 +1,38 @@
+[
+  {
+    "ticket_id": "T1",
+    "route": "auto_triage",
+    "confidence": 0.94,
+    "routing_reason": "Confidence score 0.94 satisfies threshold 0.65"
+  },
+  {
+    "ticket_id": "T2",
+    "route": "auto_triage",
+    "confidence": 0.93,
+    "routing_reason": "Confidence score 0.93 satisfies threshold 0.65"
+  },
+  {
+    "ticket_id": "T3",
+    "route": "auto_triage",
+    "confidence": 0.89,
+    "routing_reason": "Confidence score 0.89 satisfies threshold 0.65"
+  },
+  {
+    "ticket_id": "T4",
+    "route": "auto_triage",
+    "confidence": 0.91,
+    "routing_reason": "Confidence score 0.91 satisfies threshold 0.65"
+  },
+  {
+    "ticket_id": "T5",
+    "route": "auto_triage",
+    "confidence": 0.95,
+    "routing_reason": "Confidence score 0.95 satisfies threshold 0.65"
+  },
+  {
+    "ticket_id": "T6",
+    "route": "auto_triage",
+    "confidence": 0.92,
+    "routing_reason": "Confidence score 0.92 satisfies threshold 0.65"
+  }
+]

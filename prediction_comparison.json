@@ -1,0 +1,68 @@
+[
+  {
+    "ticket_id": "T1",
+    "expected_category": "login_access",
+    "predicted_category": "login_access",
+    "category_match": true,
+    "expected_urgency": "high",
+    "predicted_urgency": "high",
+    "urgency_match": true,
+    "confidence": 0.94,
+    "route": "auto_triage"
+  },
+  {
+    "ticket_id": "T2",
+    "expected_category": "billing",
+    "predicted_category": "billing",
+    "category_match": true,
+    "expected_urgency": "high",
+    "predicted_urgency": "high",
+    "urgency_match": true,
+    "confidence": 0.93,
+    "route": "auto_triage"
+  },
+  {
+    "ticket_id": "T3",
+    "expected_category": "technical_issue",
+    "predicted_category": "technical_issue",
+    "category_match": true,
+    "expected_urgency": "medium",
+    "predicted_urgency": "medium",
+    "urgency_match": true,
+    "confidence": 0.89,
+    "route": "auto_triage"
+  },
+  {
+    "ticket_id": "T4",
+    "expected_category": "verification",
+    "predicted_category": "verification",
+    "category_match": true,
+    "expected_urgency": "medium",
+    "predicted_urgency": "medium",
+    "urgency_match": true,
+    "confidence": 0.91,
+    "route": "auto_triage"
+  },
+  {
+    "ticket_id": "T5",
+    "expected_category": "account_closure",
+    "predicted_category": "account_closure",
+    "category_match": true,
+    "expected_urgency": "medium",
+    "predicted_urgency": "medium",
+    "urgency_match": true,
+    "confidence": 0.95,
+    "route": "auto_triage"
+  },
+  {
+    "ticket_id": "T6",
+    "expected_category": "feature_request",
+    "predicted_category": "feature_request",
+    "category_match": true,
+    "expected_urgency": "low",
+    "predicted_urgency": "low",
+    "urgency_match": true,
+    "confidence": 0.92,
+    "route": "auto_triage"
+  }
+]

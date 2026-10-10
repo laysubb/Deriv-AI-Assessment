@@ -1,0 +1,7 @@
+{
+  "category": "login_access",
+  "urgency": "high",
+  "confidence": 0.94,
+  "reasoning_summary": "Customer reports persistent login failure after password reset.",
+  "needs_human_review": false
+}

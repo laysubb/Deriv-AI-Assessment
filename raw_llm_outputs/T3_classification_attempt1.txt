@@ -1,0 +1,7 @@
+{
+  "category": "technical_issue",
+  "urgency": "medium",
+  "confidence": 0.89,
+  "reasoning_summary": "Technical performance issue with mobile chart freezing.",
+  "needs_human_review": false
+}

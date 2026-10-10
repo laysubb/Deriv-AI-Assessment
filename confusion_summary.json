@@ -1,0 +1,24 @@
+{
+  "confusion_matrix": {
+    "login_access": {
+      "login_access": 1
+    },
+    "billing": {
+      "billing": 1
+    },
+    "technical_issue": {
+      "technical_issue": 1
+    },
+    "verification": {
+      "verification": 1
+    },
+    "account_closure": {
+      "account_closure": 1
+    },
+    "feature_request": {
+      "feature_request": 1
+    }
+  },
+  "misclassifications": [],
+  "most_confused_pairs": []
+}

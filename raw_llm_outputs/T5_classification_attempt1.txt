@@ -1,0 +1,7 @@
+{
+  "category": "account_closure",
+  "urgency": "medium",
+  "confidence": 0.95,
+  "reasoning_summary": "Explicit request for permanent account closure.",
+  "needs_human_review": false
+}

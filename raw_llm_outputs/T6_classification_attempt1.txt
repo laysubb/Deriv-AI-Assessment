@@ -1,0 +1,7 @@
+{
+  "category": "feature_request",
+  "urgency": "low",
+  "confidence": 0.92,
+  "reasoning_summary": "Feature suggestion requesting dark mode option on dashboard.",
+  "needs_human_review": false
+}

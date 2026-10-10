@@ -1,0 +1,11 @@
+{
+  "total_tickets": 6,
+  "evaluated_tickets": 6,
+  "category_accuracy": 1.0,
+  "urgency_accuracy": 1.0,
+  "category_correct_count": 6,
+  "urgency_correct_count": 6,
+  "human_review_count": 0,
+  "auto_triage_count": 6,
+  "parse_validation_failures": 0
+}
